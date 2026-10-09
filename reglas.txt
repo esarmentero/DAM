@@ -4,4 +4,4 @@
 • Mientras un alumno resuelve su tarea, el resto observa la pantalla.
 • Si el alumno se queda atascado, puede solicitar ayuda de sus compañeros pero perderá puntuación en el reto asignado.
 
-Hola soy Jorge
+Hola soy Jorge cambio rama main
