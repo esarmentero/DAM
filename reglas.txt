@@ -1,0 +1,5 @@
+• A cada alumno se le asignará un reto que tiene que resolver en un tiempo determinado para poder pasar el turno al siguiente compañero. Todos los retos se deberán resolver en orden.
+• Se evaluará cómo el alumno resuelve el reto y la explicación que aporta.
+• Antes de empezar cualquier acción, cada alumno hace git pull salvo que en sus instrucciones se diga explícitamente lo contrario.
+• Mientras un alumno resuelve su tarea, el resto observa la pantalla.
+• Si el alumno se queda atascado, puede solicitar ayuda de sus compañeros pero perderá puntuación en el reto asignado.
